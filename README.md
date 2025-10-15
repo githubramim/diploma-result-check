@@ -1,0 +1,1 @@
+# diploma-result-check
